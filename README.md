@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gaivenc
 - 👀 I’m interested in making cool things
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on nothing right now.
+- 📫 How to reach me, gaivenclaude@gmail.com
 
 <!---
 gaivenc/gaivenc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
