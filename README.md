@@ -1,1 +1,3 @@
-I am an inventor genius who loves long walk on the subterrianian beach in the astrovian fields.
+I am a student by trade and an inventor by heart.
+
+Apologies for the previous message.
